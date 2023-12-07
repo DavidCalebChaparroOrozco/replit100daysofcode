@@ -7,3 +7,5 @@
   * Learn about concatenating (and impress your friends with this big word!). Complete a wacky recipe maker project!
 * Day 04 'Print' in Color!
   * Write your own adventure story and make your project POP with some color!
+* Day 05 If this...else that?!
+  * Generate actual Q&As with 'if' statements. Create a "Who am I?" game with your favorite TV/movie characters.
