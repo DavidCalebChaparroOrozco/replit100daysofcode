@@ -9,3 +9,5 @@
   * Write your own adventure story and make your project POP with some color!
 * Day 05 If this...else that?!
   * Generate actual Q&As with 'if' statements. Create a "Who am I?" game with your favorite TV/movie characters.
+* Day 06 What the elif is this?
+	* Learn 'elif' statements. Can you create a login system to keep passwords safe from hackers?
