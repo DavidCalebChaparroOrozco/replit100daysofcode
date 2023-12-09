@@ -11,3 +11,5 @@
   * Generate actual Q&As with 'if' statements. Create a "Who am I?" game with your favorite TV/movie characters.
 * Day 06 What the elif is this?
 	* Learn 'elif' statements. Can you create a login system to keep passwords safe from hackers?
+* Day 07 Nesting Dolls Code
+	* Like nesting dolls, nest 'if' statements within 'if' statements. Create a game to find true fans of your favorite show.
