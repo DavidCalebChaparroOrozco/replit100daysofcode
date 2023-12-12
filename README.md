@@ -15,3 +15,5 @@
   * Like nesting dolls, nest 'if' statements within 'if' statements. Create a game to find true fans of your favorite show.
 * Day 08 Affirmation Generator
   * Project day! Show the world some love with an affirmation generator. Send good vibes each day with a personalized message.
+* Day 09 Casting Spells on Your Code
+  * Teach the computer to recognize numbers (and do the math) with the 'magic' of `int` and `float`!
