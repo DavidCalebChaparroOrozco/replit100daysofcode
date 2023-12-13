@@ -19,3 +19,5 @@
   * Teach the computer to recognize numbers (and do the math) with the 'magic' of `int` and `float`!
 * Day 10 - Show Me the $$
 	 * Code basic math principles (+, -, *, /), build your own tip calculator, and never calculate numbers again!
+* Day 11 525,600 minutes
+	* 525,600 minutes. Now, use your newfound math skills to determine how many seconds are in a year.
