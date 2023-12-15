@@ -23,3 +23,5 @@
 	* 525,600 minutes. Now, use your newfound math skills to determine how many seconds are in a year.
 * Day 12 - Find All the Bugs!
 	* This course has taught you to squash bugs like a true programmer. Find the errors and start debugging like a pro!
+* Day 13 - Gradebook Builder
+	* Whether you are a teacher or student, you can compute grades and generate your own gradebook with this project.
