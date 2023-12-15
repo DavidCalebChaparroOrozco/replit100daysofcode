@@ -21,3 +21,5 @@
 	 * Code basic math principles (+, -, *, /), build your own tip calculator, and never calculate numbers again!
 * Day 11 525,600 minutes
 	* 525,600 minutes. Now, use your newfound math skills to determine how many seconds are in a year.
+* Day 12 - Find All the Bugs!
+	* This course has taught you to squash bugs like a true programmer. Find the errors and start debugging like a pro!
