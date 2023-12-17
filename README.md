@@ -18,12 +18,14 @@
 * Day 09 Casting Spells on Your Code
   * Teach the computer to recognize numbers (and do the math) with the 'magic' of `int` and `float`!
 * Day 10 - Show Me the $$
-	 * Code basic math principles (+, -, *, /), build your own tip calculator, and never calculate numbers again!
+  * Code basic math principles (+, -, *, /), build your own tip calculator, and never calculate numbers again!
 * Day 11 525,600 minutes
-	* 525,600 minutes. Now, use your newfound math skills to determine how many seconds are in a year.
+  * 525,600 minutes. Now, use your newfound math skills to determine how many seconds are in a year.
 * Day 12 - Find All the Bugs!
-	* This course has taught you to squash bugs like a true programmer. Find the errors and start debugging like a pro!
+  * This course has taught you to squash bugs like a true programmer. Find the errors and start debugging like a pro!
 * Day 13 - Gradebook Builder
-	* Whether you are a teacher or student, you can compute grades and generate your own gradebook with this project.
+  * Whether you are a teacher or student, you can compute grades and generate your own gradebook with this project.
 * Day 14 - Rock, Paper, Scissors
-	* Day 14! Now for the most epic of projects...a rock, paper, scissors game to share with the community.
+  * Day 14! Now for the most epic of projects...a rock, paper, scissors game to share with the community.
+* Day 15 - All About the Loop
+  * Make your games much more epic by adding a loop to repeat the game over and over...
