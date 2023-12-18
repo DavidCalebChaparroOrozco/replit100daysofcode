@@ -29,3 +29,5 @@
   * Day 14! Now for the most epic of projects...a rock, paper, scissors game to share with the community.
 * Day 15 - All About the Loop
   * Make your games much more epic by adding a loop to repeat the game over and over...
+* Day 16 - Make it Stop!
+	 * Whoops. You made an accidental infinite loop...and nightmare. Introducing..."while True"...to make it stop.
