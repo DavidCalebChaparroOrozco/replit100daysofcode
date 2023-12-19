@@ -30,4 +30,6 @@
 * Day 15 - All About the Loop
   * Make your games much more epic by adding a loop to repeat the game over and over...
 * Day 16 - Make it Stop!
-	 * Whoops. You made an accidental infinite loop...and nightmare. Introducing..."while True"...to make it stop.
+  * Whoops. You made an accidental infinite loop...and nightmare. Introducing..."while True"...to make it stop.
+* Day 17 - Let's Cheat Continue
+  * Learn the `continue` command. An ideal component of building games AND build your first game that keeps score!
