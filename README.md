@@ -33,3 +33,5 @@
   * Whoops. You made an accidental infinite loop...and nightmare. Introducing..."while True"...to make it stop.
 * Day 17 - Let's Cheat Continue
   * Learn the `continue` command. An ideal component of building games AND build your first game that keeps score!
+* Day 18 - Guess the Number
+	 * Build a 'Guess the Number' game where the user has to read your mind and guess the number you are thinking...
