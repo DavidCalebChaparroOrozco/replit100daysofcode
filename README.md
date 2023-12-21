@@ -34,4 +34,6 @@
 * Day 17 - Let's Cheat Continue
   * Learn the `continue` command. An ideal component of building games AND build your first game that keeps score!
 * Day 18 - Guess the Number
-	 * Build a 'Guess the Number' game where the user has to read your mind and guess the number you are thinking...
+  * Build a 'Guess the Number' game where the user has to read your mind and guess the number you are thinking...
+* Day 19 - Let's Be a Bit Lazy!
+  * What if you do have an idea of how often you want something to repeat (or you just want to be a bit lazy)? Introducing...the `for` loop.
