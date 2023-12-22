@@ -37,3 +37,5 @@
   * Build a 'Guess the Number' game where the user has to read your mind and guess the number you are thinking...
 * Day 19 - Let's Be a Bit Lazy!
   * What if you do have an idea of how often you want something to repeat (or you just want to be a bit lazy)? Introducing...the `for` loop.
+* Day 20 - What Can Range really do?
+ 	* Bring on the start of list making by learning all the capabilities of range.
