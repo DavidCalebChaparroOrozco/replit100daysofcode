@@ -38,6 +38,8 @@
 * Day 19 - Let's Be a Bit Lazy!
   * What if you do have an idea of how often you want something to repeat (or you just want to be a bit lazy)? Introducing...the `for` loop.
 * Day 20 - What Can Range really do?
- 	* Bring on the start of list making by learning all the capabilities of range.
+  * Bring on the start of list making by learning all the capabilities of range.
 * Day 21 - Throwback to Math Facts
-	 * Create a game to test your friends’ knowledge on their math facts.
+  * Create a game to test your friends’ knowledge on their math facts.
+* Day 22 - Use other people's code
+  * Let's be sneaky and learn how to use other people's code to make your life easier.
