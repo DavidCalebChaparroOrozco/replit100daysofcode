@@ -44,6 +44,6 @@
 * Day 22 - Use other people's code
   * Let's be sneaky and learn how to use other people's code to make your life easier.
 *  Day 23 Subroutines: The Recipe for Coding
-  * Write code in a way where you can use it, call it, or repeat it anywhere and at anytime with the power of subroutines. 
+   * Write code in a way where you can use it, call it, or repeat it anywhere and at anytime with the power of subroutines. 
 *  Day 24 - Roll in the Parameters
-  * Underwhelmed by subroutines? Let's switch it up and add some parameters.
+   * Underwhelmed by subroutines? Let's switch it up and add some parameters.
