@@ -48,4 +48,6 @@
 *  Day 24 - Roll in the Parameters
    * Underwhelmed by subroutines? Let's switch it up and add some parameters.
 *  Day 25 - Send it Back
-	  * The `return` command will allow you to really start building some epic, automated video games. 
+   * The `return` command will allow you to really start building some epic, automated video games. 
+*  Day 26 - The Power of Libraries in Games
+   * You are 1/4th of the way done with 100 Days of Code! Well done. Learn how to import two libraries: 'os' and 'time', which will be super helpful as you start to build some really cool automation.
