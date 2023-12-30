@@ -53,3 +53,5 @@
    * You are 1/4th of the way done with 100 Days of Code! Well done. Learn how to import two libraries: 'os' and 'time', which will be super helpful as you start to build some really cool automation.
 *  Day 27 - Video Game Characters
 	  * Project Day! Build some characters and create their health and strength stats through the power of return, libraries, and loops. Get them ready to battle on Day 28. 
+*  Day 28 - Epic Character Battle
+	* Project Day! Your characters you built on Day 27 will fight to the death. Who will win out? 
