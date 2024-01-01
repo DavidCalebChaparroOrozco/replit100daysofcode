@@ -57,3 +57,5 @@
 	* Project Day! Your characters you built on Day 27 will fight to the death. Who will win out? 
 *  Day 29 - The Secrets of `print`
 	* You already learned how to `print` like a boss, but there are a few things you can do make them even easier.
+*  Day 30 - f...what?
+	* The `f` stands for format...not whatever you were thinking. Change the way you combine strings and variables with f-strings.
