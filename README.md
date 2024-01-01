@@ -55,5 +55,5 @@
 	  * Project Day! Build some characters and create their health and strength stats through the power of return, libraries, and loops. Get them ready to battle on Day 28. 
 *  Day 28 - Epic Character Battle
 	* Project Day! Your characters you built on Day 27 will fight to the death. Who will win out? 
-*  The Secrets of `print`
+*  Day 29 - The Secrets of `print`
 	* You already learned how to `print` like a boss, but there are a few things you can do make them even easier.
