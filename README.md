@@ -59,3 +59,5 @@
 	* You already learned how to `print` like a boss, but there are a few things you can do make them even easier.
 *  Day 30 - f...what?
 	* The `f` stands for format...not whatever you were thinking. Change the way you combine strings and variables with f-strings.
+* Day 31 - Create a User Interface
+	* Project Day! Let creativity shine as you create two classic user interfaces using only `print` and `f-strings`.
