@@ -61,3 +61,5 @@
 	* The `f` stands for format...not whatever you were thinking. Change the way you combine strings and variables with f-strings.
 * Day 31 - Create a User Interface
 	* Project Day! Let creativity shine as you create two classic user interfaces using only `print` and `f-strings`.
+* Day 32 - Make a List
+	* Learn how to store more than one piece of information in a single variable with the power of lists.
