@@ -63,3 +63,5 @@
 	* Project Day! Let creativity shine as you create two classic user interfaces using only `print` and `f-strings`.
 * Day 32 - Make a List
 	* Learn how to store more than one piece of information in a single variable with the power of lists.
+* Day 32 - Getting Dynamic
+	* For all you list makers, this lesson is for you. With dynamic lists, create a working to do list to keep yourself on track.
