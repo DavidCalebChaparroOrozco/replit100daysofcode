@@ -65,3 +65,5 @@
 	* Learn how to store more than one piece of information in a single variable with the power of lists.
 * Day 33 - Getting Dynamic
 	* For all you list makers, this lesson is for you. With dynamic lists, create a working to do list to keep yourself on track.
+* Day 34 - Pretty Printing
+	* Let's be honest...so far all your subroutines have been pretty boring. Now let's make them, well, pretty.
