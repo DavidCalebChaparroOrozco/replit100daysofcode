@@ -71,3 +71,5 @@
 	* Beef up your to do list from Day 33 to make the ULTIMATE list maker by adding 'pretty printing' subroutines.
 * Day 36 - That's Not My Name...
 	* That's not my name...Learn how string manipulation can improve your 'if' statements.
+* Day 37 - Slice it Up!
+	* May the force be with you as you slice it up! Create your Star Wars name with string slicing.
