@@ -73,3 +73,5 @@
 	* That's not my name...Learn how string manipulation can improve your 'if' statements.
 * Day 37 - Slice it Up!
 	* May the force be with you as you slice it up! Create your Star Wars name with string slicing.
+* Day 38 - Code the Rainbow
+	* Code the rainbow by harnessing the power of string and loops.
