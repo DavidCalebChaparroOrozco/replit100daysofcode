@@ -75,3 +75,5 @@
 	* May the force be with you as you slice it up! Create your Star Wars name with string slicing.
 * Day 38 - Code the Rainbow
 	* Code the rainbow by harnessing the power of string and loops.
+* Day 39 - Hangman
+	* Project Day! Flashback to your childhood and build your own version of Hangman.
