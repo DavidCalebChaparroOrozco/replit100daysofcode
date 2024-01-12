@@ -77,3 +77,5 @@
 	* Code the rainbow by harnessing the power of string and loops.
 * Day 39 - Hangman
 	* Project Day! Flashback to your childhood and build your own version of Hangman.
+* Day 40 - Dictionaries
+	* Don't worry. No need to buy a massive paper book to look up words. Let's take lists one step further with dictionaries.
