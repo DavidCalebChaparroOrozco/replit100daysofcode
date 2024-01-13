@@ -79,3 +79,5 @@
 	* Project Day! Flashback to your childhood and build your own version of Hangman.
 * Day 40 - Dictionaries
 	* Don't worry. No need to buy a massive paper book to look up words. Let's take lists one step further with dictionaries.
+* Day 41 - I've Lost My Keys
+	* Dictionaries and loops are not always friends. Discover the secret to ensuring they get along.
