@@ -81,3 +81,5 @@
 	* Don't worry. No need to buy a massive paper book to look up words. Let's take lists one step further with dictionaries.
 * Day 41 - I've Lost My Keys
 	* Dictionaries and loops are not always friends. Discover the secret to ensuring they get along.
+* Day 42 - MokeBeast
+	* Gotta catch 'em all! Use dictionaries to create a game with small creatures you captured and forced to fight for your amusement. You monster.
