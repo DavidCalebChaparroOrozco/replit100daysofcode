@@ -83,3 +83,5 @@
 	* Dictionaries and loops are not always friends. Discover the secret to ensuring they get along.
 * Day 42 - MokeBeast
 	* Gotta catch 'em all! Use dictionaries to create a game with small creatures you captured and forced to fight for your amusement. You monster.
+* Day 43 - Taking Lists to a New Dimension
+	* 2D lists..basically tables...will allow us to store more data like the cool kids.
