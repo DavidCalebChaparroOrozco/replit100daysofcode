@@ -85,3 +85,5 @@
 	* Gotta catch 'em all! Use dictionaries to create a game with small creatures you captured and forced to fight for your amusement. You monster.
 * Day 43 - Taking Lists to a New Dimension
 	* 2D lists..basically tables...will allow us to store more data like the cool kids.
+* Day 44 - Dynamic 2D Lists
+	* What about 2D lists that change? Let's make David's Nan's Bingo game a bit more dynamic.
