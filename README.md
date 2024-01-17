@@ -87,3 +87,5 @@
 	* 2D lists..basically tables...will allow us to store more data like the cool kids.
 * Day 44 - Dynamic 2D Lists
 	* What about 2D lists that change? Let's make David's Nan's Bingo game a bit more dynamic.
+* Day 45 - Get it 'to done'!
+	* Let's build a 'to do' list system. Wait, we did this? Yes, but this 'to do' list stores dates and adds priority. Get it 'to done.' 😆
