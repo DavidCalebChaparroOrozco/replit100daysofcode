@@ -93,3 +93,5 @@
 	* That can only mean one thing! The return of 'MokeBeasts.' But, first let's tackle 2D dictionaries with another game that may or may not include a candlestick, the library...
 * Day 47 - Top Trumps
 	* Not heard of 'Top Trumps'? Maybe because it's British...and so is David. Anyways, use 2D dictionary skills for this card game battle.
+* Day 48 - Saving to Files
+	* It only took 48 days (sorry about that), but we are finally going to save our data to 'files'.
