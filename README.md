@@ -95,3 +95,5 @@
 	* Not heard of 'Top Trumps'? Maybe because it's British...and so is David. Anyways, use 2D dictionary skills for this card game battle.
 * Day 48 - Saving to Files
 	* It only took 48 days (sorry about that), but we are finally going to save our data to 'files'.
+* Day 49 - Reading a File
+	* Once we've got data into a file, wouldn't it be just splendid to load it back into our program to use again? Let's do it!
