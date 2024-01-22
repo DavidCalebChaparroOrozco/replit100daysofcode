@@ -97,3 +97,5 @@
 	* It only took 48 days (sorry about that), but we are finally going to save our data to 'files'.
 * Day 49 - Reading a File
 	* Once we've got data into a file, wouldn't it be just splendid to load it back into our program to use again? Let's do it!
+* Day 50 - Idea Storage
+	* Do you have brilliant ideas at inconvenient times? Need a handy way to store them? Then, today's project is for you!
