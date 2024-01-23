@@ -99,3 +99,5 @@
 	* Once we've got data into a file, wouldn't it be just splendid to load it back into our program to use again? Let's do it!
 * Day 50 - Idea Storage
 	* Do you have brilliant ideas at inconvenient times? Need a handy way to store them? Then, today's project is for you!
+* Day 51 - You Save Your Data in...You Load Your Data Out...
+	* Anyone else now singing the 'Hokey Pokey'?! Learn the powers of auto-save and auto-load to up your game on your to do list project from Day 45.
