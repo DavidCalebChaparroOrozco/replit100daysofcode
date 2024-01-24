@@ -101,3 +101,5 @@
 	* Do you have brilliant ideas at inconvenient times? Need a handy way to store them? Then, today's project is for you!
 * Day 51 - You Save Your Data in...You Load Your Data Out...
 	* Anyone else now singing the 'Hokey Pokey'?! Learn the powers of auto-save and auto-load to up your game on your to do list project from Day 45.
+* Day 52 - Brace for Impact
+	* Sometimes, we just can't code around a crash. It's coming anyway. Until now!
