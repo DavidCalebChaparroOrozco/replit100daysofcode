@@ -103,3 +103,5 @@
 	* Anyone else now singing the 'Hokey Pokey'?! Learn the powers of auto-save and auto-load to up your game on your to do list project from Day 45.
 * Day 52 - Brace for Impact
 	* Sometimes, we just can't code around a crash. It's coming anyway. Until now!
+* Day 53 - Video Game Inventory
+	* Oh yes! It's classic RPG inventory system time. Chug a 'stamina potion' and let's get that video game inventory squared away.
