@@ -107,3 +107,5 @@
 	* Oh yes! It's classic RPG inventory system time. Chug a 'stamina potion' and let's get that video game inventory squared away.
 * Day 54 - Comma', 'Separated'...What?!
 	* CSV, or comma-separated values, files are are a way of storing a spreadsheet as a text file with every value in the file separated by a comma...Hence the oh so creative name!
+* Day 55 - Back the 'f' up?!
+	* Back the 'f' up! 'f' is short for 'file ', of course. What did you think I meant? Let's use the 'os' library to create and navigate files.
