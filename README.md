@@ -109,3 +109,5 @@
 	* CSV, or comma-separated values, files are are a way of storing a spreadsheet as a text file with every value in the file separated by a comma...Hence the oh so creative name!
 * Day 55 - Back the 'f' up?!
 	* Back the 'f' up! 'f' is short for 'file ', of course. What did you think I meant? Let's use the 'os' library to create and navigate files.
+* Day 56 - Music Streaming Service
+	* Use your newly acquired csv reading and file management powers to work with data about a music streaming service.
