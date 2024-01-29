@@ -111,3 +111,5 @@
 	* Back the 'f' up! 'f' is short for 'file ', of course. What did you think I meant? Let's use the 'os' library to create and navigate files.
 * Day 56 - Music Streaming Service
 	* Use your newly acquired csv reading and file management powers to work with data about a music streaming service.
+* Day 57 - Recursion
+	* Recur...what?! Recursion is a type of program where you get a subroutine to call itself.
