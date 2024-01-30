@@ -113,3 +113,5 @@
 	* Use your newly acquired csv reading and file management powers to work with data about a music streaming service.
 * Day 57 - Recursion
 	* Recur...what?! Recursion is a type of program where you get a subroutine to call itself.
+* Day 58 - Debugger 🐞
+	* Our code is getting complicated. The built-in debugger🐞 helps us keep track of what's going on without having to print all the time.
