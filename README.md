@@ -115,3 +115,5 @@
 	* Recur...what?! Recursion is a type of program where you get a subroutine to call itself.
 * Day 58 - Debugger 🐞
 	* Our code is getting complicated. The built-in debugger🐞 helps us keep track of what's going on without having to print all the time.
+* Day 59 - Palindrome
+	* Ever heard of a palindrome? Here's a clue: "A Man A Plan A Canal Panama!" Still not sure? Read that statement backwards! Today's project is a palindrome detector.
