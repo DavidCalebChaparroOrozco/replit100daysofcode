@@ -119,3 +119,5 @@
 	* Ever heard of a palindrome? Here's a clue: "A Man A Plan A Canal Panama!" Still not sure? Read that statement backwards! Today's project is a palindrome detector.
 * Day 60 - The Magic of Time
 	* Let's talk about the magic of time...(not time travel). Sorry to disappoint. We can get your program to do some pretty cool things with the concept of time.
+* Day 61 - Replit DB
+	* Store data directly in a repl using the Replit DB. Then, build a one-person Twitter (because we all like the sound of our own voices, right?!)
