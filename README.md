@@ -121,3 +121,5 @@
 	* Let's talk about the magic of time...(not time travel). Sorry to disappoint. We can get your program to do some pretty cool things with the concept of time.
 * Day 61 - Replit DB
 	* Store data directly in a repl using the Replit DB. Then, build a one-person Twitter (because we all like the sound of our own voices, right?!)
+* Day 62 - Secret Keeper
+	* Look out, Big Brother! Build your own private diary to keep your innermost thoughts secret from the world.
