@@ -123,3 +123,5 @@
 	* Store data directly in a repl using the Replit DB. Then, build a one-person Twitter (because we all like the sound of our own voices, right?!)
 * Day 62 - Secret Keeper
 	* Look out, Big Brother! Build your own private diary to keep your innermost thoughts secret from the world.
+* Day 63 - We Can Split That
+	* You have written some pretty big programs with lots of lines of code. We can split that code into multiple files.
