@@ -129,3 +129,5 @@
 	* Oops...it's actually OOP (see what I did there). Object Oriented Programming is the name of the game today.
 * Day 65 - Character Creation
 	* You really have enough knowledge now to spice up video games. In today's project, you get to create characters for your video game.
+* Day 66 - This is getting GUI
+	* In this 90s flashback, create a GUI with tkinter. This does get a bit sticky, but will really give you overachievers a real challenge.
