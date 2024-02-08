@@ -131,3 +131,5 @@
 	* You really have enough knowledge now to spice up video games. In today's project, you get to create characters for your video game.
 * Day 66 - This is getting GUI
 	* In this 90s flashback, create a GUI with tkinter. This does get a bit sticky, but will really give you overachievers a real challenge.
+* Day 67 - Guess Who
+	* tkinter is weird. Am I right? Continue the 90s flashback with a tkinter version of 'Guess Who.'
