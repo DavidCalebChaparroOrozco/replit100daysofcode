@@ -133,3 +133,5 @@
 	* In this 90s flashback, create a GUI with tkinter. This does get a bit sticky, but will really give you overachievers a real challenge.
 * Day 67 - Guess Who
 	* tkinter is weird. Am I right? Continue the 90s flashback with a tkinter version of 'Guess Who.'
+* Day 68 - Hide & Remove
+	* Like Day 67, but better because now you can hide and remove images too.
