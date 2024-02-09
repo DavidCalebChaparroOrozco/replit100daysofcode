@@ -65,6 +65,7 @@ import tkinter as tk
 
 
 
+import tkinter as tk
 from PIL import Image, ImageTk
 
 window = tk.Tk()
@@ -100,11 +101,11 @@ button.pack()
 canvas = tk.Canvas(window, width=400, height=380)
 canvas.pack()
 
-Amy = ImageTk.PhotoImage(Image.open("day68/Amy.png"))
+Amy = ImageTk.PhotoImage(Image.open("day67/Amy.png"))
 
-Bender = ImageTk.PhotoImage(Image.open("day68/Bender.png"))
-Fry = ImageTk.PhotoImage(Image.open("day68/Fry.png"))
-Leela = ImageTk.PhotoImage(Image.open("day68/Leela.png"))
+Bender = ImageTk.PhotoImage(Image.open("day67/Bender.png"))
+Fry = ImageTk.PhotoImage(Image.open("day67/Fry.png"))
+Leela = ImageTk.PhotoImage(Image.open("day67/Leela.png"))
 
 container = canvas.create_image(150, 1, image=Amy)
 
