@@ -135,3 +135,5 @@
 	* tkinter is weird. Am I right? Continue the 90s flashback with a tkinter version of 'Guess Who.'
 * Day 68 - Hide & Remove
 	* Like Day 67, but better because now you can hide and remove images too.
+* Day 69 - Graphic Novel
+	* Let's do a bit more tinkering with tkinter and create a graphic novel.
