@@ -139,3 +139,5 @@
 	* Let's do a bit more tinkering with tkinter and create a graphic novel.
 * Day 70 - For Your Eyes Only
 	* With secrets, learn how to keep those other forkers away from your passwords.
+* Day 71 - Pass the Salt
+	* Learn the powers of hash and salt to ensure your passwords are safe from hackers.
