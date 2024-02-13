@@ -141,3 +141,5 @@
 	* With secrets, learn how to keep those other forkers away from your passwords.
 * Day 71 - Pass the Salt
 	* Learn the powers of hash and salt to ensure your passwords are safe from hackers.
+* Day 72 - Secret Diary 2.0
+	* It's project day and time to fully lock down the secret diary you made on Day 62.
