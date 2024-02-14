@@ -143,3 +143,5 @@
 	* Learn the powers of hash and salt to ensure your passwords are safe from hackers.
 * Day 72 - Secret Diary 2.0
 	* It's project day and time to fully lock down the secret diary you made on Day 62.
+* Day 73 - HTML Crash Course
+	* Dip your toes in the basics of HTML and learn how to create a basic website.
