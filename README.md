@@ -145,3 +145,5 @@
 	* It's project day and time to fully lock down the secret diary you made on Day 62.
 * Day 73 - HTML Crash Course
 	* Dip your toes in the basics of HTML and learn how to create a basic website.
+* Day 74 - Add Some Style
+	* Make yesterday's dull webpage much more beautiful by adding different colors, fonts, sizes, and more with CSS.
