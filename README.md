@@ -147,3 +147,5 @@
 	* Dip your toes in the basics of HTML and learn how to create a basic website.
 * Day 74 - Add Some Style
 	* Make yesterday's dull webpage much more beautiful by adding different colors, fonts, sizes, and more with CSS.
+* Day 75 - Link tree
+	* Create your own link tree that you can share anywhere.
