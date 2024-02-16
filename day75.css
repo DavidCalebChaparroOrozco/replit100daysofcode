@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #0e1525;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 50%;
+}
+
+h1,
+h3 {
+    font-family: monospace;
+    font-weight: bold;
+    color: white
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.about {
+    font-size: 8px;
+    font-style: italic;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
