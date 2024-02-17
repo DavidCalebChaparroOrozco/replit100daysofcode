@@ -149,3 +149,5 @@
 	* Make yesterday's dull webpage much more beautiful by adding different colors, fonts, sizes, and more with CSS.
 * Day 75 - Link tree
 	* Create your own link tree that you can share anywhere.
+* Day 76 - Flask
+	* Combine HTML/CSS with Python and you get Flask! The perfect component for dynamic web apps.
