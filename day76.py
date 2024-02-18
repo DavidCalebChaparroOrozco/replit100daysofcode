@@ -71,11 +71,11 @@ def portfolio():
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Portfolio</title>
-    <link href="day76/static/css/portfolio.css" rel="stylesheet" type="text/css" />
+    <link href="../static/css/portfolio.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
-    <img src="../static/images/davidcaleb.png" width="50%">
+    <img src="../static/images/davidcaleb.jpg" width="50%">
     <h1>David Caleb</h1>
     <p class="about">The one who wants to know the northern lights more than anyone else.</p>
     <h3>Socials</h3>
@@ -84,7 +84,6 @@ def portfolio():
         <li> <a href="#"> Email ( davidcaleb1998@hotmail.com ) </a> </li>
     </ul>
 </body>
-
 </html>
 """
     return page
@@ -100,7 +99,7 @@ def linktree():
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Caleb's World of Adventure</title>
-    <link href="day76/static/css/linktree.css" rel="stylesheet" type="text/css"/>
+    <link href="../static/css/linktree.css" rel="stylesheet" type="text/css"/>
 </head>
 
 <body>
