@@ -45,7 +45,7 @@ from flask import Flask
 # )  # This line should ALWAYS come last. It's the line that turns on the Flask server.
 
 
-from flask import Flask
+
 
 app = Flask(__name__, static_folder="static", template_folder="templates")
 
