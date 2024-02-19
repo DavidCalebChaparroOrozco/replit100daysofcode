@@ -151,3 +151,5 @@
 	* Create your own link tree that you can share anywhere.
 * Day 76 - Flask
 	* Combine HTML/CSS with Python and you get Flask! The perfect component for dynamic web apps.
+* Day 77 - Slim Down
+	* As you probably have figured out by now, your flask files get pretty big pretty quickly. Let's use Flask to slim things down a bit.
