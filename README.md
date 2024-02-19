@@ -153,3 +153,5 @@
 	* Combine HTML/CSS with Python and you get Flask! The perfect component for dynamic web apps.
 * Day 77 - Slim Down
 	* As you probably have figured out by now, your flask files get pretty big pretty quickly. Let's use Flask to slim things down a bit.
+* Day 78 - Reflections
+	* Today's challenge is to build a place to store your reflections on the next 22 days of code.
