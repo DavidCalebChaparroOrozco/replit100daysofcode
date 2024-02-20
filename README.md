@@ -155,3 +155,5 @@
 	* As you probably have figured out by now, your flask files get pretty big pretty quickly. Let's use Flask to slim things down a bit.
 * Day 78 - Reflections
 	* Today's challenge is to build a place to store your reflections on the next 22 days of code.
+* Day 79 - Yakkety Yak!
+	* Day 79 is all about getting our web pages to talk back to the webserver with forms of course.
