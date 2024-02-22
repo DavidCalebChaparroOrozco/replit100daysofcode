@@ -159,3 +159,5 @@
 	* Day 79 is all about getting our web pages to talk back to the webserver with forms of course.
 * Day 80 - Incoming!
 	* So you collected data, but have no way to access it. Learn how to deal with data from forms using our new favorite friend, Flask.
+* Day 81 - I'm Not a Robot
+	* Today's challenge is to build the legendary "I'm not a robot" program.
