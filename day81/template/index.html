@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Are you robot?</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <form method="post" action="/robot">
+        <p>Are you made of metal? <input type="radio" name="metal" value="Yes">Yes</p>
+        <input type="radio" name="metal" value="No">No</p>
+
+        <p>What is infinity + 1? <input type="text" name="infinity" required></p>
+
+        <p>Which is your favorite food? 
+            <select name="food">
+                <option value="human food">Pizza</option>
+                <option value="synthetic oil">Synthetic Oil</option>
+            </select>
+        </p>
+
+        <button type="submit">I'm not robot</button>
+    </form>
+</body>
+</html>
