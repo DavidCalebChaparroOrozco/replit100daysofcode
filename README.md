@@ -161,3 +161,5 @@
 	* So you collected data, but have no way to access it. Learn how to deal with data from forms using our new favorite friend, Flask.
 * Day 81 - I'm Not a Robot
 	* Today's challenge is to build the legendary "I'm not a robot" program.
+* Day 82 - Don't Stop 'til You Get
+	* We're going to learn about an alternative way of getting data from forms to the webserver using the 'get' method.
