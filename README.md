@@ -163,3 +163,5 @@
 	* Today's challenge is to build the legendary "I'm not a robot" program.
 * Day 82 - Don't Stop 'til You Get
 	* We're going to learn about an alternative way of getting data from forms to the webserver using the 'get' method.
+* Day 83 - Custom Themes
+	* It's project day and time to take that blogging engine code from Day 77 to the next level and create custom themes.
