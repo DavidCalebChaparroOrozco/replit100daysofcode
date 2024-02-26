@@ -167,3 +167,5 @@
 	* It's project day and time to take that blogging engine code from Day 77 to the next level and create custom themes.
 * Day 84 - Client Server Logins
 	* Use Flask as a webserver to build a client server model to persistently store data in the repl (server) and it be accessed by multiple users (clients).
+* Day 85 - Don't Be Stateless
+	* Don't be stateless like HTTP. Create sessions to store files on your computer to keep record of previous 'conversations' and 'questions' you've asked.
