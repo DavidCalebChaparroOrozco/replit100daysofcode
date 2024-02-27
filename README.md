@@ -169,3 +169,5 @@
 	* Use Flask as a webserver to build a client server model to persistently store data in the repl (server) and it be accessed by multiple users (clients).
 * Day 85 - Don't Be Stateless
 	* Don't be stateless like HTTP. Create sessions to store files on your computer to keep record of previous 'conversations' and 'questions' you've asked.
+* Day 86 - Blog Time
+	* I know it is a bit 1996, but why not create a fully functioning blog in today's project?!
