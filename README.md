@@ -171,3 +171,5 @@
 	* Don't be stateless like HTTP. Create sessions to store files on your computer to keep record of previous 'conversations' and 'questions' you've asked.
 * Day 86 - Blog Time
 	* I know it is a bit 1996, but why not create a fully functioning blog in today's project?!
+* Day 87 - Authenticate
+	* Don't be mad, but there was an easier way: Authentication. Sometimes, it's best to take the long way around, but now you can authenticate your login system with just a few lines of code.
