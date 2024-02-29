@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <title>Entry</title>
+</head>
+
+<h1>Hello {user}</h1>
+
+<body>
+  <form method="POST" action="/logged">
+    <p>Title: <input type="text" name="title" required></p>  
+    <p>Content: <input type="text" name="content" required></p>
+    <button type="submit">POST</button>
+  </form>
+</body>
