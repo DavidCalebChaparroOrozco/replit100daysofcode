@@ -173,3 +173,5 @@
 	* I know it is a bit 1996, but why not create a fully functioning blog in today's project?!
 * Day 87 - Authenticate
 	* Don't be mad, but there was an easier way: Authentication. Sometimes, it's best to take the long way around, but now you can authenticate your login system with just a few lines of code.
+* Day 88 - Authenticate Finesse
+	* Let's get the authenticator to work in a more subtle way...No need to be a bully and only allow Replit users to read your blog, right?
