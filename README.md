@@ -175,3 +175,5 @@
 	* Don't be mad, but there was an easier way: Authentication. Sometimes, it's best to take the long way around, but now you can authenticate your login system with just a few lines of code.
 * Day 88 - Authenticate Finesse
 	* Let's get the authenticator to work in a more subtle way...No need to be a bully and only allow Replit users to read your blog, right?
+* Day 89 - Community Chat App
+	* Create a community chat app using Replit Authentication and interact with other people in the Replit Community.
