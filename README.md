@@ -177,3 +177,5 @@
 	* Let's get the authenticator to work in a more subtle way...No need to be a bully and only allow Replit users to read your blog, right?
 * Day 89 - Community Chat App
 	* Create a community chat app using Replit Authentication and interact with other people in the Replit Community.
+* Day 90 - Jason? JSON?
+	* Who's Jason? It's actually spelled JSON (Javascript object notation) and it's not a person. It's the first step on the journey to web scraping.
