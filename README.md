@@ -179,3 +179,5 @@
 	* Create a community chat app using Replit Authentication and interact with other people in the Replit Community.
 * Day 90 - Jason? JSON?
 	* Who's Jason? It's actually spelled JSON (Javascript object notation) and it's not a person. It's the first step on the journey to web scraping.
+* Day 91 - The Joke's on You!
+	* Dad jokes are here! Learn more about APIs and get some new dad joke material at the same time.
