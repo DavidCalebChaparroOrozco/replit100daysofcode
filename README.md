@@ -181,3 +181,5 @@
 	* Who's Jason? It's actually spelled JSON (Javascript object notation) and it's not a person. It's the first step on the journey to web scraping.
 * Day 91 - The Joke's on You!
 	* Dad jokes are here! Learn more about APIs and get some new dad joke material at the same time.
+* Day 92 - What's the Weather?
+	* How's the weather 🌡 in your neck of the woods? In today's challenge, build your own weather app!
