@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Chat</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <h1>Community Chat</h1>
+    <h2>You are logged in as {username}</h2>
+    <hr>
+    {chats}
+    <hr>
+    <form action="/add" method="post">
+        <p>Message: <input type="text" name="message" required></p>
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
