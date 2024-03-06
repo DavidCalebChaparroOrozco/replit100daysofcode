@@ -185,3 +185,5 @@
 	* How's the weather 🌡 in your neck of the woods? In today's challenge, build your own weather app!
 * Day 93 - What's Your Top Ten?
 	* With help from Spotify 🎵, learn how to create a website that magically displays the top 10 songs for any given year. It's a doozy, but you got this!
+* Day 94 - API Mashup
+	* Combine data from NewsAPI and OpenAI to summarize the news without you writing anything.
