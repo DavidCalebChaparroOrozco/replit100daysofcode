@@ -187,3 +187,5 @@
 	* With help from Spotify 🎵, learn how to create a website that magically displays the top 10 songs for any given year. It's a doozy, but you got this!
 * Day 94 - API Mashup
 	* Combine data from NewsAPI and OpenAI to summarize the news without you writing anything.
+* Day 95 - Daily Track Generator
+	* Combine today's news with today's top hits with the help of several API sources.
