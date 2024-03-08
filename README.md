@@ -189,3 +189,5 @@
 	* Combine data from NewsAPI and OpenAI to summarize the news without you writing anything.
 * Day 95 - Daily Track Generator
 	* Combine today's news with today's top hits with the help of several API sources.
+* Day 96 - Let's Get Scraping
+	* No API? No problem. Get ready to do some scraping...web scraping that is...to download a webpage and poke around for the info. we want.
