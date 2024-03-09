@@ -191,3 +191,5 @@
 	* Combine today's news with today's top hits with the help of several API sources.
 * Day 96 - Let's Get Scraping
 	* No API? No problem. Get ready to do some scraping...web scraping that is...to download a webpage and poke around for the info. we want.
+* Day 97 - Summarize Anything!
+	* Now I can summarize any article and include the references. Get on my level!
