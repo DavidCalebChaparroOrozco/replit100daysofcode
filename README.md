@@ -193,3 +193,5 @@
 	* No API? No problem. Get ready to do some scraping...web scraping that is...to download a webpage and poke around for the info. we want.
 * Day 97 - Summarize Anything!
 	* Now I can summarize any article and include the references. Get on my level!
+* Day 98 - Automate! Automate!
+	* The finish line is near! Build a program that emails you motivational quotes to keep your energy up. PS. Today's project will work much better with Hacker or always on.
