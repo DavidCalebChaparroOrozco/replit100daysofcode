@@ -197,3 +197,5 @@
 	* The finish line is near! Build a program that emails you motivational quotes to keep your energy up. PS. Today's project will work much better with Hacker or always on.
 * Day 99 - Scrape the Community Hub
 	* Today's challenge involves a combo scraper. Let's mix up emailing and scheduling and find the best Replit events for you to attend.
+* Day 100 - Product Price Scraper
+	* It's Day 💯! You should be REALLY proud of yourself. To celebrate, go buy yourself something nice and use the nifty product price tracker you will build today to get the best price!
